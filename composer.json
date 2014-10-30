@@ -1,0 +1,12 @@
+{
+    "name": "alexanderduring/shop-server",
+    "description": "Shop Backend",
+    "license": "BSD-3-Clause",
+    "keywords": [
+    ],
+    "homepage": "http://github.com/alexanderduring/shop-server",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.3.*"
+    }
+}

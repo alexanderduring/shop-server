@@ -1,0 +1,15 @@
+
+# --- local config files ---
+config/autoload/local.php
+config/autoload/*.local.php
+
+
+# --- cache files ---
+data/cache/*
+
+
+# --- editor project files ---
+nbproject
+
+# --- composer packages ---
+vendor/*
